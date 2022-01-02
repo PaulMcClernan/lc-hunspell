@@ -1,4 +1,4 @@
-library community.livecode.trevordevore.hunspell
+library org.opentxtalk.hunspell
 
   use com.livecode.engine
   use com.livecode.foreign
