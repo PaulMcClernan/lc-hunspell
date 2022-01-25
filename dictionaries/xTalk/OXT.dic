@@ -35,7 +35,6 @@ altid
 altkey
 alwaysbuffer
 angle
-angle
 annuity
 answer
 antialiased
@@ -114,7 +113,6 @@ borderwidth
 borderWidth
 botleft
 botright
-bottom
 bottom
 bottomcolor
 bottomColor
@@ -267,7 +265,6 @@ decorations
 decorations
 decrypt
 default
-default
 defaultbutton
 defaultcursor
 defaultfolder
@@ -291,7 +288,6 @@ difference
 directories
 directory
 disable
-disabled
 disabled
 disabledicon
 disabledIcon
@@ -868,7 +864,6 @@ palette
 palindromeframes
 palindromeFrames
 pan
-pan
 paragraphoffset
 param
 paramcount
@@ -1236,7 +1231,6 @@ revZipReplaceItemWithFile
 revZipSetItemAttributes
 revZipSetProgressCallback
 right
-right
 rightbalance
 rightindent
 rightmargin
@@ -1384,7 +1378,6 @@ sin
 sixthcolor
 sixthpixel
 size
-size
 slices
 sockettimeoutinterval
 sort
@@ -1428,7 +1421,6 @@ stop
 strokegradient
 strokeGradient
 style
-style
 styledtext
 styledText
 substacks
@@ -1470,7 +1462,6 @@ templatevideoclip
 tempname
 temporary
 text
-text
 textalign
 textAlign
 textarrows
@@ -1491,8 +1482,6 @@ textSize
 textstyle
 textStyle
 theme
-theme
-themeclass
 themeclass
 thirdcolor
 thirdpixel
@@ -1510,10 +1499,8 @@ thumbSize
 tick
 ticks
 tilt
-tilt
 time
 timescale
-title
 title
 titlewidth
 togglehilites
@@ -1524,7 +1511,6 @@ tool
 tooltip
 tooltip
 tooltipdelay
-top
 top
 topcolor
 topColor
@@ -1544,7 +1530,6 @@ tracereturn
 tracestack
 traceuntil
 trackcount
-tracks
 tracks
 transpose
 traversalon
@@ -1616,7 +1601,6 @@ weekdaynames
 wholematches
 widemargins
 width
-width
 windowboundingrect
 windowid
 windowmanagerplace
@@ -1657,6 +1641,5 @@ yextent
 yhot
 yoffset
 yscale
-zoom
 zoom
 zoomboxalwaysBuffer
