@@ -23,3 +23,6 @@ dictionaries/xTalk/._README_OXT.txt
 ._hunspell-test-suite.livecode
 *.txt
 dictionaries/xTalk/._README_OXT.txt
+.DS_Store
+code/.DS_Store
+dictionaries/.DS_Store

@@ -788,6 +788,10 @@ modeless
 modifiedmark
 monthnames
 mouse
+mouseDown
+mouseUp
+mouseEnter
+mouseLeave
 mousechar
 mousecharchunk
 mousechunk
